@@ -150,7 +150,7 @@
   line-height: 24px;
 }
 .card__footer {
-  margin: 0 0 auto;
+  margin: auto 0 0;
   font-size: 14px;
   line-height: 20px;
   color: #838383;
