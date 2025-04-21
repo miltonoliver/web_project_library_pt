@@ -108,6 +108,7 @@
 }
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
+  background-size: cover;
   background-position: center;
   margin: 0 auto;
   justify-content: center;
@@ -149,7 +150,7 @@
   line-height: 24px;
 }
 .card__footer {
-  margin: 0;
+  margin: 0 0 auto;
   font-size: 14px;
   line-height: 20px;
   color: #838383;
