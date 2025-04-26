@@ -103,13 +103,10 @@
   list-style-type: none;
   padding-left: 0;
 }
-.card__footer {
-  margin: auto 0 0;
-}
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   margin: 0 auto;
   justify-content: center;
@@ -151,7 +148,7 @@
   line-height: 24px;
 }
 .card__footer {
-  margin: 0;
+  margin: auto 0 0;
   font-size: 14px;
   line-height: 20px;
   color: #838383;
